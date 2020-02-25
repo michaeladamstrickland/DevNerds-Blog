@@ -1,0 +1,32 @@
+section {
+    /* display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
+    grid-auto-rows: auto;
+    grid-gap: 10px;
+    margin: 0 auto;
+    /* max-width: 95%; */
+    /* width: 75%; */
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    justify-content: space-evenly;
+
+}
+
+mat-card {
+    margin: 10px 0;
+    width: 400px;
+    
+	/* float: left; */
+
+}
+
+img {
+    max-height: 250px;
+    width:100%;
+}
+
+mat-card-content:focus{
+    outline: none;
+    border: 0;
+}
